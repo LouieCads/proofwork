@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-	<title>Proofwork</title>
+	<title>Feed</title>
 </svelte:head>
 
 <div class="flex flex-col items-center justify-center min-h-screen">
   <h1 class="text-2xl mb-3">Welcome to Proofwork</h1>
-  <p>Explore Web3 job opportunities</p>
+  <p>Find jobs</p>
 </div>
